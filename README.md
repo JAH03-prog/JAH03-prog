@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 About Me<br>👋 Hi there! I'm a Computer Science student at Fordham University 🦅, with a passion for data analytics 📊 and cybersecurity 🔒.<br><br>🔧 Currently, I'm:<br><br>🛠️ Building a home lab to level up my tech skills.<br>📚 Working through the Google Cybersecurity Certificate.<br>💡 I love learning, tinkering, and exploring new ways to solve problems. Whether it’s diving into datasets or securing systems, I’m all in!<br><br>🤝 I'm looking to:<br><br>Collaborate on exciting tech projects 🚀.<br>Connect with like-minded innovators in the tech community 🌍.<br>🎯 Let’s create something amazing together!
+🌟 About Me<br>👋 Hi there! I'm a Computer Science student at Fordham University 🦅, with a passion for data analytics, software engineering 📊 and cybersecurity 🔒.<br><br>🔧 Currently, I'm:<br><br>🛠️ Building a home lab to level up my tech skills.<br>📚 Working through the Google Cybersecurity Certificate.<br>💡 I love learning, tinkering, and exploring new ways to solve problems. Whether it’s diving into datasets or securing systems, I’m all in!<br><br>🤝 I'm looking to:<br><br>Collaborate on exciting tech projects 🚀.<br>Connect with like-minded innovators in the tech community 🌍.<br>🎯 Let’s create something amazing together!
 
 
 ## 🌐 Socials:
